@@ -10,6 +10,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        headercolor: "#18191a",
+         h2color: "#202020"
       },
       keyframes: {
         message: {
