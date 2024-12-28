@@ -3,7 +3,7 @@ import SkillsClient from '../components/skillsclient/skillsclient';
 
 export default function Skills() {
   return (
-    <div>
+    <div className='p-6'>
       <SkillsClient />
     </div>
   );

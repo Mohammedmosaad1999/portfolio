@@ -12,7 +12,7 @@ export default function About() {
         <div id="Right" className="w-full h-full flex order-1 justify-end gap-3 md:order-2 md:justify-center md:items-center mb-20 md:mb-0">
           <img
             className="relative w-full h-full max-w-[400px] max-h-[400px] rounded-full border-2 border-[#854CE6]"
-            src="/mohamed (2).jpg"
+            src="/mohammed.jpg"
             alt="hero-image"
           />
         </div>

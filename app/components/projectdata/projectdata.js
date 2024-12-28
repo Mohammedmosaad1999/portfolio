@@ -3,8 +3,8 @@ export const projects = [
       title: "Portfolio",
       description:
         "This is my portfolio website to show my skills and highlight my projects and also provide you downloadable version of my resume on my portfolio website",
-      image:
-        "/mohamed.jpg",
+        image:
+        "/mohammed.jpg",
       tags: [
         "Html",
         "Css",
