@@ -62,8 +62,25 @@ export const projects = [
          "Bootstrape",
 
       ],
-      github: "https://github.com/Mohammedmosaad1999/Boootstrap",
+      github: "https://github.com/Mohammedmosaad1999/Boootstrap", 
       website: "https://boootstrap.vercel.app/",
+    },
+    {
+      title: "Age Calculator", 
+      description:
+        "Designed and developed simple Nextjs app to calculate the age of the man by (year , month and day ) .",
+      image:
+        "/age.png",
+      tags:
+       ["html", 
+        "CSS" ,
+        "Javascript",
+        "react",
+        "Nextjs",
+
+      ],
+      github: "https://github.com/Mohammedmosaad1999/agecalculator", 
+      website:  "https://agecalculator-liart-two.vercel.app/",
     }
             
 ]
